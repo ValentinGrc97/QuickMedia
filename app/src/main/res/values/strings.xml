@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quick Media</string>
+    <string name="photo">Prendre une photo</string>
+    <string name="video">Prendre une vidéo</string>
+    <string name="galerie">Aller dans la galerie</string>
+</resources>
